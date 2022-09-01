@@ -1,7 +1,8 @@
 # Monster Rolodex
 
-The project is a monster rolodex that I created during my Udemy course in react.js
-You can type amy name of a monster and it will filter it to you 
+The project is a monster rolodex that I created during my Udemy course in react.js `Complete React Developer in 2022 (w/ Redux, Hooks, GraphQL)`
+
+You can type any name of a monster and it will filter it to you 
 
 To set up the project you need to:
 
